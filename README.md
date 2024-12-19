@@ -1,5 +1,5 @@
 # 💫 About Me:
-Master Student in Quantitative Data Science<br>Currently deepen strengths in Machine Learning and Psychometrics<br>Working on smaller university projects
+Master Student in Quantitive Data Science<br>Currently deepen strengths in Machine Learning, Psychometrics and Econometrics<br>Working on smaller university projects in different subjects as Data Literacy, Deep Learning or Latent Variable Modeling
 
 
 ## 🌐 Socials:
